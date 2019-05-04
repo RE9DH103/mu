@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2018-07-09 22:48+0200\n"
-"PO-Revision-Date: 2018-07-10 11:01+0100\n"
+"PO-Revision-Date: 2019-05-04 19:09+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: fr_FR\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: pygettext.py 1.5\n"
-"X-Generator: Poedit 2.0.4\n"
+"X-Generator: Poedit 2.2.1\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: .venv/lib/python3.5/site-packages/sphinx/builders/changes.py:85
@@ -766,7 +766,7 @@ msgstr "Mu"
 
 #: mu/interface/main.py:966
 msgid "Mu's current mode of behaviour."
-msgstr "Mode courant de Mu."
+msgstr "Mode de comportement actuel de Mu."
 
 #: mu/interface/panes.py:296
 msgid "File already exists; overwrite it?"
