@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2018-07-09 22:48+0200\n"
-"PO-Revision-Date: 2018-07-10 11:01+0100\n"
+"PO-Revision-Date: 2019-05-28 09:43+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: fr_FR\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: pygettext.py 1.5\n"
-"X-Generator: Poedit 2.0.4\n"
+"X-Generator: Poedit 2.2.1\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: .venv/lib/python3.5/site-packages/sphinx/builders/changes.py:85
@@ -1308,12 +1308,12 @@ msgstr "Occurences de \"{}\" surlignées."
 
 #: mu/logic.py:1305
 msgid "You must provide something to find."
-msgstr "Tu dois fournir quelque chose à chercher."
+msgstr "Vous devez fournir quelque chose à trouver."
 
 #: mu/logic.py:1306
 msgid "Please try again, this time with something in the find box."
 msgstr ""
-"Essaie à nouveau, cette fois avec quelque chose dans la boîte de recherche."
+"Essayez de nouveau, cette fois avec quelque chose dans la boîte de recherche."
 
 #: mu/modes/adafruit.py:32
 msgid "Adafruit CircuitPython"
@@ -1321,7 +1321,7 @@ msgstr "Adafruit CircuitPython"
 
 #: mu/modes/adafruit.py:33
 msgid "Use CircuitPython on Adafruit's line of boards."
-msgstr "Utilise CircuitPython avec la gamme de cartes Adafruit."
+msgstr "Utilisez CircuitPython sur la gamme de cartes Adafruit."
 
 #: mu/modes/adafruit.py:64
 msgid "Serial"
@@ -1329,19 +1329,19 @@ msgstr "Série"
 
 #: mu/modes/adafruit.py:65
 msgid "Open a serial connection to your device."
-msgstr "Ouvre une connexion série sur ton périphérique."
+msgstr "Ouvrez une connexion série sur votre périphérique."
 
 #: mu/modes/adafruit.py:72 mu/modes/microbit.py:213 mu/modes/python3.py:136
 msgid "Plotter"
-msgstr "Graphique"
+msgstr "Traceur "
 
 #: mu/modes/adafruit.py:73 mu/modes/microbit.py:214
 msgid "Plot incoming REPL data."
-msgstr "Déssine graphique avec les données du REPL."
+msgstr "Tracer un graphique avec les données du REPL."
 
 #: mu/modes/adafruit.py:143
 msgid "Could not find an attached Adafruit CircuitPython device."
-msgstr "Impossible de trouvé un périphérique Adafruit CircuitPython."
+msgstr "Impossible de trouver un périphérique lié à Adafruit CircuitPython."
 
 #: mu/modes/adafruit.py:145
 msgid ""
@@ -1353,8 +1353,8 @@ msgid ""
 "\n"
 "...to store your code."
 msgstr ""
-"Le fichiers Python pour les périphériques Adafruit CircuitPython sont "
-"stockés directement sur le périphérique.\n"
+"Le fichier Python pour les périphériques Adafruit CircuitPython sont stockés "
+"directement sur le périphérique.\n"
 "Ainsi, pour pouvoir les modifier il faut avoir un périphérique connecté. En "
 "attendant qu'un périphérique soit connecté, Mu utilisera le dossier:\n"
 "\n"
@@ -1364,7 +1364,7 @@ msgstr ""
 
 #: mu/modes/base.py:169
 msgid "Data Flood Detected!"
-msgstr "Inondation des données détectée!"
+msgstr "Flux de Données détectée!"
 
 #: mu/modes/base.py:170
 msgid ""
@@ -1377,21 +1377,22 @@ msgid ""
 "To fix this, make sure your code prints small tuples of data between calls "
 "to 'sleep' for a very short period of time."
 msgstr ""
-"Le grapheur est inondé par les données ce qui rend Mu peu réactif voire "
-"bloqué. Par sécurité, le grapheur a été interrompu.\n"
+"Le traceur de graphique est inondé par les données ce qui rend Mu peu "
+"réactif voire bloqué. Par sécurité, le traceur a été interrompu.\n"
 "\n"
-"L'inondation se produit lorsque de bloc de données de plus de 1024 octets "
-"sont envoyés en boucle au grapheur.\n"
+"L'inondation se produit lorsque des bloc de données de plus de 1024 octets "
+"sont envoyés en boucle au traceur.\n"
 "\n"
-"Pour corriger ceci, assure-toi que ton programme affiche des petits tuples "
-"de données entre les appels à 'sleep' pour une courte période de temps."
+"Pour corriger ceci, assurez-vous que votre programme affiche des petits "
+"tuples de données entre les appels à 'sleep' pour une courte période de "
+"temps."
 
 #: mu/modes/base.py:262 mu/modes/base.py:301
 msgid ""
 "Click on the device's reset button, wait a few seconds and then try again."
 msgstr ""
-"Appuie sur le bouton 'reset' du périphérique, attend quelques secondes et "
-"essaie à nouveau."
+"Appuyer sur le bouton 'reset' du périphérique, attendre quelques secondes et "
+"essayez de nouveau."
 
 #: mu/modes/base.py:268 mu/modes/base.py:307
 msgid "Could not find an attached device."
@@ -1428,9 +1429,9 @@ msgstr ""
 "Merci de vérifier que le périphérique est connecté à l'ordinateur.\n"
 "\n"
 "Le périphérique doit avoir MicroPython (ou CircuitPython) flashé dessus pour "
-"que le grapheur fonctionne.\n"
+"que le traceur fonctionne.\n"
 "\n"
-"Enfin, appuie sur le bouton 'reset' du périphérique et attend quelques "
+"Enfin, appuyez sur le bouton 'reset' du périphérique et attend quelques "
 "secondes avant de ré-essayer."
 
 #: mu/modes/debugger.py:35
@@ -1439,7 +1440,7 @@ msgstr "Débogueur graphique"
 
 #: mu/modes/debugger.py:36
 msgid "Debug your Python 3 code."
-msgstr "Débogue ton programme Python 3."
+msgstr "Déboguer votre programme Python 3."
 
 #: mu/modes/debugger.py:50 mu/modes/pygamezero.py:109 mu/modes/python3.py:166
 msgid "Stop"
