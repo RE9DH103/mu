@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2018-07-09 22:48+0200\n"
-"PO-Revision-Date: 2018-07-10 11:01+0100\n"
+"PO-Revision-Date: 2019-05-28 08:23+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: fr_FR\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: pygettext.py 1.5\n"
-"X-Generator: Poedit 2.0.4\n"
+"X-Generator: Poedit 2.2.3\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: .venv/lib/python3.5/site-packages/sphinx/builders/changes.py:85
@@ -577,8 +577,8 @@ msgid ""
 "Each separate enviroment variable should be on a new line and of the form:\n"
 "NAME=VALUE"
 msgstr ""
-"Les variables d'environnement ci-dessous seront définies chaque fois que tu "
-"lanceras un script Python 3\n"
+"Les variables d'environnement ci-dessous seront définies chaque fois que "
+"vous lancerez un script Python 3\n"
 "\n"
 "Chaque variable d'environnement doit être sur une nouvelle ligne de la "
 "forme:\n"
@@ -586,7 +586,7 @@ msgstr ""
 
 #: mu/interface/dialogs.py:150
 msgid "Minify Python code before flashing?"
-msgstr "Compresser le code Python avant le flasher?"
+msgstr "Compresser le code Python avant le flasher ?"
 
 #: mu/interface/dialogs.py:153
 msgid ""
@@ -594,7 +594,7 @@ msgid ""
 "means use the default):"
 msgstr ""
 "Remplace l'exécutable MicroPython par le fichier hex suivant (vide signifie "
-"utilise celui par défaut):"
+"utilise celui par défaut) :"
 
 #: mu/interface/dialogs.py:175 mu/interface/main.py:973
 msgid "Mu Administration"
@@ -618,15 +618,15 @@ msgstr "Rechercher / Remplacer"
 
 #: mu/interface/dialogs.py:227
 msgid "Find:"
-msgstr "Recherche:"
+msgstr "Recherche :"
 
 #: mu/interface/dialogs.py:233
 msgid "Replace (optional):"
-msgstr "Remplace (optionnel):"
+msgstr "Remplace (optionnel) :"
 
 #: mu/interface/dialogs.py:239
 msgid "Replace all?"
-msgstr "Remplacer tout?"
+msgstr "Remplacer tout ?"
 
 #: mu/interface/editor.py:222 mu/logic.py:960
 msgid "untitled"
