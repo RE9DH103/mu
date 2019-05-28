@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2018-07-09 22:48+0200\n"
-"PO-Revision-Date: 2018-07-10 11:01+0100\n"
+"PO-Revision-Date: 2019-05-28 09:57+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: fr_FR\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: pygettext.py 1.5\n"
-"X-Generator: Poedit 2.0.4\n"
+"X-Generator: Poedit 2.2.1\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: .venv/lib/python3.5/site-packages/sphinx/builders/changes.py:85
@@ -1479,11 +1479,11 @@ msgstr "Sortir"
 
 #: mu/modes/debugger.py:79
 msgid "Step out of a function."
-msgstr "Sort d'une fonction."
+msgstr "Sortir d'une fonction."
 
 #: mu/modes/debugger.py:156
 msgid "Your script has finished running."
-msgstr "Ton programme a fini de s'exécuter."
+msgstr "Votre programme a fini de s'exécuter."
 
 #: mu/modes/debugger.py:224
 msgid ""
@@ -1509,7 +1509,7 @@ msgstr "BBC micro:bit"
 
 #: mu/modes/microbit.py:169
 msgid "Write MicroPython for the BBC micro:bit."
-msgstr "Ecrit un programme MicroPython pour la micro:bit"
+msgstr "Ecrire un programme MicroPython pour la micro:bit"
 
 #: mu/modes/microbit.py:190
 msgid "Flash"
@@ -1517,7 +1517,7 @@ msgstr "Flasher"
 
 #: mu/modes/microbit.py:191
 msgid "Flash your code onto the micro:bit."
-msgstr "Flashe ton programme sur la micro:bit"
+msgstr "Flashe votre programme sur la micro:bit"
 
 #: mu/modes/microbit.py:197
 msgid "Files"
@@ -1533,7 +1533,7 @@ msgstr "REPL"
 
 #: mu/modes/microbit.py:205
 msgid "Use the REPL to live-code on the micro:bit."
-msgstr "Utilise le REPL pour programmer directement sur la micro:bit"
+msgstr "Utiliser le REPL pour programmer directement sur la micro:bit"
 
 #: mu/modes/microbit.py:255
 msgid "Unable to flash \"{}\""
@@ -1549,15 +1549,15 @@ msgstr "{} [{}:{}]"
 
 #: mu/modes/microbit.py:276
 msgid "Our minifier tried but your script is too long!"
-msgstr "On a essayé de le compresser mais ton programme est trop long!"
+msgstr "On a essayé de le compresser mais votre programme est trop long!"
 
 #: mu/modes/microbit.py:281
 msgid "Your script is too long and the minifier isn't available"
-msgstr "Ton programme est trop long et le compresseur n'est pas disponible."
+msgstr "Votre programme est trop long et le compresseur n'est pas disponible."
 
 #: mu/modes/microbit.py:286
 msgid "Your script is too long!"
-msgstr "Ton programme est trop long!"
+msgstr "Votre programme est trop long!"
 
 #: mu/modes/microbit.py:357
 msgid "Flashing \"{}\" onto the micro:bit."
@@ -1578,10 +1578,10 @@ msgid ""
 "Alternatively, try removing and re-attaching the device or saving your work "
 "and restarting Mu if the device remains unfound."
 msgstr ""
-"Merci de laisser suffisamment de temps à la micro:bit connectée à ton "
+"Merci de laisser suffisamment de temps à la micro:bit connectée à votre "
 "ordinateur. Ceci peut prendre plusieurs secondes. Si le périphérique "
-"n'apparaît toujours pas, essaye de débrancher/rebrancher le périphérique ou "
-"d'enregistrer ton travail et redémarrer Mu."
+"n'apparaît toujours pas, essayer de débrancher/rebrancher le périphérique ou "
+"d'enregistrer votre travail et redémarrer Mu."
 
 #: mu/modes/microbit.py:434
 msgid "Finished flashing."
@@ -1597,7 +1597,7 @@ msgid ""
 "check the logs for more information."
 msgstr ""
 "Ne pas déconnecter le périphériques tant que le flashage n'est pas terminé. "
-"Regarde les logs pour plus d'informations."
+"Consulter les logs pour plus d'informations."
 
 #: mu/modes/microbit.py:498
 msgid "REPL and file system cannot work at the same time."
@@ -1610,13 +1610,13 @@ msgid ""
 "can be active at any time. Toggle the file system off and try again."
 msgstr ""
 "Le REPL et le système de fichiers utilisent tous les deux la même connexion "
-"USB série. Un seul des deux peut être actif à la fois. Désactive le système "
-"de fichier et ré-essaie."
+"USB série. Un seul des deux peut être actif à la fois. Désactivez le système "
+"de fichier et réessayez."
 
 #: mu/modes/microbit.py:516
 msgid "The plotter and file system cannot work at the same time."
 msgstr ""
-"Le grapheur et le systèle de fichiers ne peuvent pas fonctionner en même "
+"Le grapheur et le système de fichiers ne peuvent pas fonctionner en même "
 "temps."
 
 #: mu/modes/microbit.py:518
@@ -1625,8 +1625,8 @@ msgid ""
 "one can be active at any time. Toggle the file system off and try again."
 msgstr ""
 "Le grapheur et le système de fichiers utilisent la même connexion USB série. "
-"Un seul des deux peut être active à la fois. Désactive le système de "
-"fichiers et essaie à nouveau."
+"Un seul des deux peut être active à la fois. Désactivez le système de "
+"fichiers et essayez à nouveau."
 
 #: mu/modes/microbit.py:530
 msgid "File system cannot work at the same time as the REPL or plotter."
