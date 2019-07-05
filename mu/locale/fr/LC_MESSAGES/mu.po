@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2018-07-09 22:48+0200\n"
-"PO-Revision-Date: 2019-06-12 13:57+0200\n"
+"PO-Revision-Date: 2018-07-10 11:01+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: fr_FR\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: pygettext.py 1.5\n"
-"X-Generator: Poedit 2.2.1\n"
+"X-Generator: Poedit 2.0.4\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: .venv/lib/python3.5/site-packages/sphinx/builders/changes.py:85
@@ -159,7 +159,7 @@ msgstr "%s() (dans le module %s)"
 
 #: .venv/lib/python3.5/site-packages/sphinx/domains/python.py:407
 msgid "%s (built-in variable)"
-msgstr "%s (variable intégrée)"
+msgstr "%s (built-in variable)"
 
 #: .venv/lib/python3.5/site-packages/sphinx/domains/python.py:408
 #: .venv/lib/python3.5/site-packages/sphinx/domains/python.py:500
